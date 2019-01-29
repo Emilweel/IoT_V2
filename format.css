@@ -1,0 +1,19 @@
+body{
+		background-color: gray;
+}
+img{
+	width: 10%;
+}
+#Block{
+	background-color: green;
+	width: 10%;
+	color: pink;
+}
+#list{
+	background-color: blue;
+	width: 10%;
+	color: aqua;
+}
+#button1{
+	width: 5%;
+}
